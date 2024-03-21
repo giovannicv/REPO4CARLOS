@@ -1,0 +1,9 @@
+Para eliminar una rama en Git, puedes utilizar el comando git branch -d o git branch -D, dependiendo de si deseas eliminar una rama que ya ha sido completamente fusionada en otra o no
+
+
+La ramificación es una práctica fundamental en el desarrollo de proyectos, especialmente en entornos colaborativos y de desarrollo de software.
+Aislamiento de cambios,facilita la colaboración,control de versiones,pruebas y experimentación
+,despliegue controlado, revertir cambios fácilmente.
+
+Usted recibió un ticket [SEM-005] y una vez terminado el trabajo usted decide crear una rama para un posterior PR. ¿Qué nombre pondría a la rama al momento de crearla?
+SEM-005/nueva-implementacion-formulario-contacto
